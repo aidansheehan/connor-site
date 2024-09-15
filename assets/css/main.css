@@ -2596,6 +2596,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
+
 		}
 
 		.image.left, .image.right {
@@ -4687,3 +4688,10 @@ input, select, textarea {
 		}
 
 	}
+
+/* #services {
+	article {
+		text-align: center;
+	}
+	
+} */
